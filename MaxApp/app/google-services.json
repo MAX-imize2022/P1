@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418609134484",
+    "project_id": "maxapp-ac406",
+    "storage_bucket": "maxapp-ac406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418609134484:android:44a210964efb1aaac1ed81",
+        "android_client_info": {
+          "package_name": "com.example.maxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418609134484-6p6h4bon618s6cg6e8oqq67vmmhaiabq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fraM4-3vRPmRHDTdf6193xE2G8HI9aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418609134484-6p6h4bon618s6cg6e8oqq67vmmhaiabq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
